@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Heghine!
+
+A full-stack web developer. Currently I'm working with JavaScript frameworks.
+
+- 🧠 I already know: Angular • Nest.js • Node.js
+- 🌱 I'm currently learning: Next.js
 
 <!--
 **ZeroaNinea/ZeroaNinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
