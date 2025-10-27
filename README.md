@@ -6,6 +6,8 @@ A full-stack web developer. Currently I'm working with JavaScript frameworks.
 - 🌱 I'm currently learning: Next.js
 - 🔭 I’m currently improving my portfolio site.
 
+And yes, I like cats! 🐈
+
 <!--
 **ZeroaNinea/ZeroaNinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
