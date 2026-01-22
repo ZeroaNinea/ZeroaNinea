@@ -2,7 +2,7 @@
 
 A full-stack web developer. Currently I'm working with JavaScript frameworks.
 
-- 🧠 I already know: Angular • Nest.js • Next.js • Node.js
+- 🧠 I already know: Angular • Nest.js • Next.js • React • Node.js
 - 💻 Building a pet project of a blog like website in Next.js.
 
 And yes, I like cats! 🐈
