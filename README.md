@@ -1,10 +1,10 @@
 ## Hi, I'm Heghine!
 
+![Portfolio](./portfolio.gif)
+
 Full-stack developer  
 I build animated, structured UIs and real-time systems  
 Angular • Node.js • Systems thinking
-
-![Portfolio](./portfolio.gif)
 
 ### What I work on
 
