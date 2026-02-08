@@ -11,6 +11,8 @@ Angular • Node.js • Systems thinking
 - Clean architecture in frontend and backend  
 - Performance-aware UI design
 
+![Portfolio](./portfolio.gif)
+
 ### Main stack
 
 #### Frontend
@@ -21,8 +23,6 @@ Node.js • NestJS • Express • JWT • WebSockets
 
 Data & infra
 PostgreSQL / MongoDB • Redis • Docker • CI/CD
-
-![Portfolio](./portfolio.gif)
 
 ### Selected work
 
