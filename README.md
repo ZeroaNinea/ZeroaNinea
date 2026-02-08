@@ -14,21 +14,33 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 - Design full-stack architectures for projects that grow beyond "just a frontend".
 - Integrate authentication, APIs, databases, and deployment workflows.
 - Maintain strong structural consistency across UI, state, APIs, and design.
-- Performance optimization, unit and end-to-end testing.
+- Optimize performance and apply unit and end-to-end testing where it matters.
 
 ### Current Focus
 
-- Writing about programming, tooling, and DX issues I encounter in practice.
-- Publishing technical breakdowns and small fixes (TypeScript, frameworks, tooling).
+- Writing about programming, tooling, and DX issues encountered in practice.
+- Publishing technical breakdowns, fixes, and implementation notes.
 - Exploring independent projects and collaborations across web.
 
 ### Tech Stack
 
 **Frontend**
-Angular • RxJS • NgRx • Angular Material • Three.js • SCSS • Tailwind • Bootstrap • JSX/TSX • React • Next.js
+Angular • RxJS • SCSS / Tailwind • Angular Material  
+React • Next.js • JSX / TSX  
+Custom SVG & canvas animations • Three.js
 
 **Backend**
-Node.js • TypeScript • GraphQL • Prisma ORM • TypeORM • Mongoose • Sequelize • Redis • Express • NestJS • Express • JWT • WebSockets • Socket.io • Passport.js • Next.js
+Node.js • TypeScript • NestJS • Express  
+REST & GraphQL APIs • WebSockets • Socket.io  
+Authentication (JWT, Passport.js)
+
+**Data**
+PostgreSQL • MongoDB • Redis  
+Prisma • TypeORM • Mongoose • Sequelize
+
+**Testing, Performance & Quality**
+Jest • Cypress • Jasmine • Karma • Mocha • Chai  
+Lighthouse CI • Clinic.js • Artillery
 
 **Testing, Performance & Quality**
 Cypress • Jest • Jasmine • Karma • Mocha • Chai • LightHouseCI • Clinic.js • Artillery
