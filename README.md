@@ -1,7 +1,5 @@
 ## Hi, I'm Heghine!
 
-![Portfolio](./portfolio.gif)
-
 Full-stack developer  
 I build animated, structured UIs and real-time systems  
 Angular • Node.js • Systems thinking
@@ -23,6 +21,8 @@ Node.js • NestJS • Express • JWT • WebSockets
 
 Data & infra
 PostgreSQL / MongoDB • Redis • Docker • CI/CD
+
+![Portfolio](./portfolio.gif)
 
 ### Selected work
 
