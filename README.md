@@ -1,61 +1,60 @@
-## Hi, I'm Heghine!
+## Hi, I'm Heghine 👋
 
-Full-stack developer  
-I build animated, structured UIs and real-time systems  
-Angular • Node.js • Systems thinking
+Full-stack developer focused on **interactive UIs, real-time systems, and clean architecture**.
+I build interfaces that feel alive — and systems that remain understandable as they grow.
+
+JavaScript, TypeScript, Angular, Node.js, and more.
 
 ![Portfolio](./portfolio.gif)
 
-### What I work on
+### What I Do
 
-- Animated, responsive interfaces without heavy libraries  
-- Real-time app (WebSockets, state synchronization)  
-- Clean architecture in frontend and backend  
-- Performance-aware UI design
+- Build animated, responsive user interfaces for websites and web apps.
+- Develop real-time functionality for chats, dashboards, and collaborative tools.
+- Design full-stack architectures for projects that grow beyond "just a frontend".
+- Integrate authentication, APIs, databases, and deployment workflows.
+- Maintain strong structural consistency across UI, state, APIs, and design.
+- Performance optimization, unit and end-to-end testing.
 
-### Main stack
+### Current Focus
 
-#### Frontend
-Angular • RxJS • NgRx • Tailwind / SCSS • Bootstrap
+- Writing about programming, tooling, and DX issues I encounter in practice.
+- Publishing technical breakdowns and small fixes (TypeScript, frameworks, tooling).
+- Exploring independent projects and collaborations across web.
 
-#### Backend
-Node.js • NestJS • Express • JWT • WebSockets
+### Tech Stack
 
-Data & infra
-PostgreSQL / MongoDB • Redis • Docker • CI/CD
+**Frontend**
+Angular • RxJS • NgRx • Angular Material • Three.js • SCSS • Tailwind • Bootstrap • JSX/TSX • React • Next.js
 
-### Selected work
+**Backend**
+Node.js • TypeScript • GraphQL • Prisma ORM • TypeORM • Mongoose • Sequelize • Redis • Express • NestJS • Express • JWT • WebSockets • Socket.io • Passport.js • Next.js
+
+**Testing, Performance & Quality**
+Cypress • Jest • Jasmine • Karma • Mocha • Chai • LightHouseCI • Clinic.js • Artillery
+
+### Selected projects
 
 **Animated Portfolio**
-A fully responsive, animated portfolio built with Angular
-- custom SVG background animations
-- drag-and-drop UI
-- multiple color themes
+Fully responsive Angular portfolio with custom interactions.
 
-**Real-time Chat App**
-JWT auth, Socket.io, Redis, Angular frontend
+- SVG-based background animations.
+- Drag-and-drop UI.
+- Multiple visual themes.
 
-I care about structure and consistency across systems —
-UI, state management, backend logic, and even design language.
+**Real-time Chat Application**
+A full-stack real-time app with authentication and live messaging.
+
+- JWT-based auth.
+- Socket.io & Redis.
+- Angular frontend.
+
 I prefer fewer tools used deeply over many tools used shallowly.
+Structure matters to me — in code, design, and systems.
 
-And yes, I like cats! 🐈
+And yes, I like cats 🐈
 
-📫 Contacts
-- **LinkedIn:** [Exactly that silly gal. Like this: :3](https://www.linkedin.com/in/heghine-avetisyan-650291384/)
-- **Portfolio:** [https://heghine-app.netlify.app/](https://heghine-app.netlify.app/)
+📫 **Links**
 
-<!--
-**ZeroaNinea/ZeroaNinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://www.linkedin.com/in/heghine-avetisyan-650291384/
+- Portfolio: https://heghine-app.netlify.app/
