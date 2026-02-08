@@ -16,7 +16,7 @@ Angular • Node.js • Systems thinking
 ### Main stack
 
 #### Frontend
-Angular • RxJS • NgRx • Tailwind / SCSS
+Angular • RxJS • NgRx • Tailwind/SCSS • Bootstrap
 
 #### Backend
 Node.js • NestJS • Express • JWT • WebSockets
