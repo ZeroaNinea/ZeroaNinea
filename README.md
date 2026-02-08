@@ -4,14 +4,14 @@ Full-stack developer
 I build animated, structured UIs and real-time systems  
 Angular • Node.js • Systems thinking
 
+![Portfolio](./portfolio.gif)
+
 ### What I work on
 
 - Animated, responsive interfaces without heavy libraries  
 - Real-time app (WebSockets, state synchronization)  
 - Clean architecture in frontend and backend  
 - Performance-aware UI design
-
-![Portfolio](./portfolio.gif)
 
 ### Main stack
 
