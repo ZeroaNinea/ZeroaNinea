@@ -1,7 +1,7 @@
 ## Hi, I'm Heghine 👋
 
 Full-stack developer focused on **interactive UIs, real-time systems, and clean architecture**.
-I build interfaces that feel alive — and systems that remain understandable as they grow.
+I build interfaces that feel alive — and systems that stay understandable as they grow.
 
 JavaScript, TypeScript, Angular, Node.js, and more.
 
