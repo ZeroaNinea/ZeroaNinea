@@ -5,6 +5,7 @@ I build animated, structured UIs and real-time systems
 Angular • Node.js • Systems thinking
 
 <!-- The GIF should be here. -->
+![Portfolio](./portfolio.gif)
 
 ### What I work on
 
