@@ -25,21 +25,21 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 ### Tech Stack
 
 **Frontend**
-Angular • RxJS • SCSS / Tailwind • Angular Material  
-React • Next.js • JSX / TSX  
+Angular • RxJS • SCSS / Tailwind • Angular Material
+React • Next.js • JSX / TSX
 Custom SVG & canvas animations • Three.js
 
 **Backend**
-Node.js • TypeScript • NestJS • Express  
-REST & GraphQL APIs • WebSockets • Socket.io  
+Node.js • TypeScript • NestJS • Express
+REST & GraphQL APIs • WebSockets • Socket.io
 Authentication (JWT, Passport.js)
 
 **Data**
-PostgreSQL • MongoDB • Redis  
+PostgreSQL • MongoDB • Redis
 Prisma • TypeORM • Mongoose • Sequelize
 
 **Testing, Performance & Quality**
-Jest • Cypress • Jasmine • Karma • Mocha • Chai  
+Jest • Cypress • Jasmine • Karma • Mocha • Chai
 Lighthouse CI • Clinic.js • Artillery
 
 **Testing, Performance & Quality**
