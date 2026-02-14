@@ -41,7 +41,6 @@ My work typically involves:
 - Writing about programming, tooling, and DX issues encountered in practice.
 - Publishing technical breakdowns, fixes, and implementation notes.
 - Exploring independent projects and collaborations across web.
-- Currently open to freelance projects and collaborations.
 
 ### Tech Stack
 
