@@ -17,7 +17,8 @@ My work typically involves:
 - real-time features (live updates, messaging, notifications),
 - admin dashboards and structured internal tools,
 - custom SVG and UI animations,
-- headless CMS integrations and content-driven platforms.
+- headless CMS integrations and content-driven platforms,
+- cross-user interactions.
 
 ### Current Focus
 
