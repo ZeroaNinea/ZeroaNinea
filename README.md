@@ -7,23 +7,6 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 
 ![Portfolio](./portfolio.gif)
 
-<!-- ### What I Do -->
-
-<!--
-- Build animated, responsive user interfaces for websites and web apps.
-- Develop real-time functionality for chats, dashboards, and collaborative tools.
-- Design full-stack architectures for projects that grow beyond "just a frontend".
-- Integrate authentication, APIs, databases, and deployment workflows.
-- Maintain strong structural consistency across UI, state, APIs, and design.
-- Optimize performance and apply unit and end-to-end testing where it matters.
--->
-
-<!-- - I build custom web applications and internal systems for startups and small teams.
-- I develop custom dashboards, booking systems, and real-time features when off-the-shelf tools aren't enough.
-- I design scalable backend systems so projects don’t break when they grow.
-- I handle authentication, APIs, databases, and deployment — end to end.
-- I improve performance and stability so your application stays reliable. -->
-
 ### Niche
 
 I build interactive web applications and internal systems using JavaScript and TypeScript.
