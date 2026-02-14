@@ -5,6 +5,8 @@ I build interfaces that feel alive — and systems that stay understandable as t
 
 JavaScript, TypeScript, Angular, Node.js, and more.
 
+🚀 Currently open to freelance projects and collaborations.
+
 ![Portfolio](./portfolio.gif)
 
 ### What I Do
@@ -45,10 +47,6 @@ Authentication (JWT, Passport.js)
 **Data**
 PostgreSQL • MongoDB • Redis
 Prisma • TypeORM • Mongoose • Sequelize
-
-**Testing, Performance & Quality**
-Jest • Cypress • Jasmine • Karma • Mocha • Chai
-Lighthouse CI • Clinic.js • Artillery
 
 **Testing, Performance & Quality**
 Cypress • Jest • Jasmine • Karma • Mocha • Chai • LightHouseCI • Clinic.js • Artillery
