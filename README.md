@@ -26,7 +26,15 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 
 ### Niche
 
-- Full-stack developer with a focus on interactive UIs, real-time systems, and user interactions.
+Full-stack JavaScript/TypeScript developer with a focus on:
+
+- interactive UIs,
+- real-time systems,
+- user interactions,
+- SVG images/icons and animations,
+- 3D shapes and animations,
+- blogs and headless CMS,
+- and admin panels.
 
 ### Current Focus
 
