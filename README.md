@@ -5,8 +5,6 @@ I build interfaces that feel alive — and systems that stay understandable as t
 
 JavaScript, TypeScript, Angular, Node.js, and more.
 
-🚀 Currently open to freelance projects and collaborations.
-
 ![Portfolio](./portfolio.gif)
 
 ### What I Do
@@ -20,7 +18,7 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 - Optimize performance and apply unit and end-to-end testing where it matters.
 -->
 
-- I build fast, modern websites and web applications that help businesses attract and retain users.
+- I build custom web applications and internal systems for startups and small teams.
 - I develop custom dashboards, booking systems, and real-time features when off-the-shelf tools aren't enough.
 - I design scalable backend systems so projects don’t break when they grow.
 - I handle authentication, APIs, databases, and deployment — end to end.
@@ -31,6 +29,7 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 - Writing about programming, tooling, and DX issues encountered in practice.
 - Publishing technical breakdowns, fixes, and implementation notes.
 - Exploring independent projects and collaborations across web.
+- Currently open to freelance projects and collaborations.
 
 ### Tech Stack
 
@@ -67,7 +66,6 @@ A full-stack real-time app with authentication and live messaging.
 - Socket.io & Redis.
 - Angular frontend.
 
-I prefer fewer tools used deeply over many tools used shallowly.
 Structure matters to me — in code, design, and systems.
 
 And yes, I like cats 🐈
