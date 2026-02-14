@@ -26,15 +26,15 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 
 ### Niche
 
-Full-stack JavaScript/TypeScript developer with a focus on:
+I build interactive web applications and internal systems using JavaScript and TypeScript.
 
-- interactive UIs,
-- real-time systems,
-- user interactions,
-- SVG images/icons and animations,
-- 3D shapes and animations,
-- blogs and headless CMS,
-- and admin panels.
+My work typically involves:
+
+- responsive, animated user interfaces,
+- real-time features (live updates, messaging, notifications),
+- admin dashboards and structured internal tools,
+- custom SVG and UI animations,
+- headless CMS integrations and content-driven platforms.
 
 ### Current Focus
 
