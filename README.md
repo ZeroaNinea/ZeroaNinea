@@ -70,3 +70,5 @@ And yes, I like cats 🐈
 - LinkedIn: https://www.linkedin.com/in/heghine-avetisyan-650291384/
 - Portfolio: https://heghine-app.netlify.app/
 - Dev-Notes (A repository that contains my notes and tutorials.): https://github.com/ZeroaNinea/Dev-Notes
+- Medium: https://medium.com/@heghine.dev357
+- Dev.to: https://dev.to/zeroaninea_8bec34a4e7d029
