@@ -30,7 +30,7 @@ My work typically involves:
 
 **Frontend**
 Angular • RxJS • SCSS / Tailwind • Angular Material
-React • Next.js • JSX / TSX • Vue.js • Pinia
+React • Zustand • React Native • Next.js • JSX / TSX • Vue.js • Pinia
 Custom SVG & canvas animations • Three.js
 
 **Backend**
