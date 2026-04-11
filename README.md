@@ -22,9 +22,9 @@ My work typically involves:
 
 ### Current Focus
 
-- Writing about programming, tooling, and DX issues encountered in practice.
-- Publishing technical breakdowns, fixes, and implementation notes.
-- Exploring independent projects and collaborations across web.
+- Extendisg my stack. The nearest plans are learning, Redux, React Testing Library, and .NET.
+- Finding freelance clients.
+- Searching for new colaborations.
 
 ### Tech Stack
 
