@@ -81,13 +81,13 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   </tr>
   <tr>
     <td colspan="2" align="center">Node.js <img style="height: 1rem" src="technology-icons/node.svg" /></td>
-    <td>-</td>
+    <td>MongoDB in Memory Server <img style="height: 1rem" src="technology-icons/mongodb-in-memory.svg" /></td>
     <td>-</td>
   </tr>
   <tr>
     <td>TSX <img style="height: 1rem" src="technology-icons/tsx.svg" />/JSX <img style="height: 1rem" src="technology-icons/jsx.svg" /></td>
     <td>-</td>
-    <td>MongoDB in Memory Server <img style="height: 1rem" src="technology-icons/mongodb-in-memory.svg" /></td>
+    <td>-</td>
     <td>-</td>
   </tr>
   <tr>
