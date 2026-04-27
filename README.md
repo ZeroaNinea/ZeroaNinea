@@ -22,13 +22,13 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   <tr>
     <td>Angular <img style="height: 1rem" src="technology-icons/angular.svg" /></td>
     <td>Node.js <img style="height: 1rem" src="technology-icons/node.svg" /></td>
-    <td>PostgreSQL</td>
+    <td>PostgreSQL <img style="height: 1rem" src="technology-icons/postgresql.svg" /></td>
     <td>Cypress <img style="height: 1rem" src="technology-icons/cypress.svg" /></td>
   </tr>
   <tr>
     <td>RxJS <img style="height: 1rem" src="technology-icons/rxjs.svg" /></td>
     <td>TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" />/JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" /></td>
-    <td>MongoDB</td>
+    <td>MongoDB <img style="height: 1rem" src="technology-icons/mongodb.svg" /></td>
     <td>Jest <img style="height: 1rem" src="technology-icons/jest.svg" /></td>
   </tr>
   <tr>
@@ -64,19 +64,19 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   <tr>
     <td>Zustand <img style="height: 1rem" src="technology-icons/zustand.svg" /></td>
     <td>0Auth2</td>
-    <td>MySQL</td>
+    <td>MySQL <img style="height: 1rem" src="technology-icons/mysql.svg" /></td>
     <td>Artillery <img style="height: 1rem" src="technology-icons/artillery.svg" /></td>
   </tr>
   <tr>
     <td>React Native <img style="height: 1rem" src="technology-icons/expo.svg" /></td>
     <td>JWT <img style="height: 1rem" src="technology-icons/jwt.svg" /></td>
-    <td>SQLite</td>
+    <td>SQLite <img style="height: 1rem" src="technology-icons/sqlite.svg" /></td>
     <td>Clinic.js <img style="height: 1rem" src="technology-icons/clinicjs.svg" /></td>
   </tr>
   <tr>
     <td>Next.js <img style="height: 1rem" src="technology-icons/nextjs.svg" /></td>
     <td>Passport.js <img style="height: 1rem" src="technology-icons/passportjs.svg" /></td>
-    <td>MariaDB</td>
+    <td>MariaDB <img style="height: 1rem" src="technology-icons/mariadb.svg" /></td>
     <td>-</td>
   </tr>
   <tr>
