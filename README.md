@@ -102,7 +102,7 @@ Custom SVG & canvas animations • Three.js
   </tr>
   <tr>
     <td>TSX/JSX</td>
-    <td>-</td>
+    <td>Sanity.io</td>
     <td>-</td>
     <td>-</td>
   </tr>
