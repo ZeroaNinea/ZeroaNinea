@@ -55,7 +55,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>Jasmine <img style="height: 1rem" src="technology-icons/jasmine.svg" /></td>
   </tr>
   <tr>
-    <td>SCSS</td>
+    <td>SCSS <img style="height: 1rem" src="technology-icons/scss.svg" /></td>
     <td>Express.js <img style="height: 1rem" src="technology-icons/expressjs.svg" /></td>
     <td>Prisma <img style="height: 1rem" src="technology-icons/prismaorm.svg" /></td>
     <td>Karma <img style="height: 1rem" src="technology-icons/karma.svg" /></td>
