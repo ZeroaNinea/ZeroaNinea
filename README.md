@@ -127,7 +127,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
   </tr>
   <tr>
-    <td>HTML <img style="height: 1rem" src="technology-icons/httml.svg" />/CSS <img style="height: 1rem" src="technology-icons/css.svg" />/JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" />/TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" /></td>
+    <td>HTML <img style="height: 1rem" src="technology-icons/html.svg" />/CSS <img style="height: 1rem" src="technology-icons/css.svg" />/JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" />/TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" /></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
