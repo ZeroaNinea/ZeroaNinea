@@ -158,11 +158,14 @@ Fully responsive Angular portfolio with custom interactions.
 - Multiple visual themes.
 
 **Real-time Chat Application**
-A full-stack real-time app with authentication and live messaging: https://github.com/ZeroaNinea/Real-Time-Chat-App
+👉 [https://github.com/ZeroaNinea/Real-Time-Chat-App]
 
-- JWT-based auth.
-- Socket.io & Redis.
-- Angular frontend.
+Discord-like full-stack chat application with authentication and real-time messaging.
+
+![Angular](https://img.shields.io/badge/Angular-red)
+![Socket.io](https://img.shields.io/badge/WebSockets-Socket.io-black)
+![Redis](https://img.shields.io/badge/Redis-caching-red)
+![JWT](https://img.shields.io/badge/Auth-JWT-blue)
 
 Structure matters to me — in code, design, and systems.
 
