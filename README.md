@@ -1,9 +1,9 @@
 # Hi, I'm Heghine 👋
 
-Full-stack developer focused on **interactive UIs, real-time systems, and clean architecture**.
-I build interfaces that feel alive — and systems that stay understandable as they grow.
+A full-stack developer focused on JavaScript-related technologies. I'm a very silly gal. And constantly use GIFs with cats. I have a bunch of skills, but I'll never get employed because of my silliness.
 
-JavaScript, TypeScript, Angular, Node.js, and more.
+If you contact me, I'll probably send you a GIF of a cat.
+\>:3
 
 ![Portfolio](./portfolio.gif)
 
