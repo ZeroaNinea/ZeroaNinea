@@ -121,6 +121,12 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>Bootstrap <img style="height: 1rem" src="technology-icons/bootstrap.svg" /></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
 </table>
 
 ## Niche
