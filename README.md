@@ -27,7 +27,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   </tr>
   <tr>
     <td>RxJS <img style="height: 1rem" src="technology-icons/rxjs.svg" /></td>
-    <td>TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" />/JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" /></td>
+    <td>Sanity.io <img style="height: 1rem" src="technology-icons/sanity.svg" /></td>
     <td>MongoDB <img style="height: 1rem" src="technology-icons/mongodb.svg" /></td>
     <td>Jest <img style="height: 1rem" src="technology-icons/jest.svg" /></td>
   </tr>
@@ -81,7 +81,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   </tr>
   <tr>
     <td>TSX <img style="height: 1rem" src="technology-icons/tsx.svg" />/JSX <img style="height: 1rem" src="technology-icons/jsx.svg" /></td>
-    <td>Sanity.io <img style="height: 1rem" src="technology-icons/sanity.svg" /></td>
+    <td>-</td>
     <td>MongoDB in Memory Server <img style="height: 1rem" src="technology-icons/mongodb-in-memory.svg" /></td>
     <td>-</td>
   </tr>
@@ -117,7 +117,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   </tr>
   <tr>
     <td>JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" />/TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" /></td>
-    <td>-</td>
+    <!-- <td>-</td> -->
     <td>-</td>
     <td>-</td>
   </tr>
