@@ -3,6 +3,7 @@
 A full-stack developer focused on JavaScript-related technologies. I'm a very silly gal. And constantly use GIFs with cats. I have a bunch of skills, but I'll never get employed because of my silliness.
 
 If you contact me, I'll probably send you a GIF of a cat.
+<br />
 \>:3
 
 ![Portfolio](./portfolio.gif)
