@@ -157,6 +157,18 @@ Fully responsive Angular portfolio with custom interactions.
 - Drag-and-drop UI.
 - Multiple visual themes.
 
+### Animated Portfolio
+
+🔗 [https://heghine-app.netlify.app/](https://heghine-app.netlify.app/)
+
+A portfolio in Angular, Angular Material, SVG animations, TypeScript and Three.js.
+
+![Angular](https://img.shields.io/badge/Angular-red)
+![Angular Material](https://img.shields.io/badge/Angular_Material-blue)
+![SVG](https://img.shields.io/badge/SVG_Animations-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Three.js](https://img.shields.io/badge/Three.js-green)
+
 ### Real-time Chat Application
 
 🔗 [https://github.com/ZeroaNinea/Real-Time-Chat-App](https://github.com/ZeroaNinea/Real-Time-Chat-App)
