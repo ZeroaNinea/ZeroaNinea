@@ -14,10 +14,10 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
 
 <table>
   <tr>
-    <td><b align="center">Frontend</b></td>
-    <td><b align="center">Backend</b></td>
-    <td><b align="center">Data</b></td>
-    <td><b align="center">Testing, Performance & Quality</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Data</b></td>
+    <td align="center"><b>Testing, Performance & Quality</b></td>
   </tr>
   <tr>
     <td>Angular <img style="height: 1rem" src="technology-icons/angular.svg" /></td>
