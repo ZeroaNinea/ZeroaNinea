@@ -148,7 +148,7 @@ My work typically involves:
 - Building reusable UI systems;
 - Finding freelance clients and collaborations.
 
-## Selected projects
+## Selected Projects
 
 ### Portfolio Site
 
