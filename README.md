@@ -47,40 +47,88 @@ Custom SVG & canvas animations • Three.js
     <td>Cypress</td>
   </tr>
   <tr>
-    <td>React</td>
+    <td>RxJS</td>
     <td>TypeScript</td>
     <td>MongoDB</td>
     <td>Jest</td>
   </tr>
   <tr>
-    <td>React Native</td>
+    <td>NgRx</td>
     <td>NestJS</td>
     <td>Redis</td>
     <td>Mocha</td>
   </tr>
   <tr>
-    <td>Next.js</td>
+    <td>SCSS</td>
     <td>Express</td>
     <td>Prisma</td>
     <td>Karma</td>
   </tr>
   <tr>
-    <td>Vue.js</td>
+    <td>Tailwind</td>
     <td>GraphQL APIs</td>
     <td>TypeORM</td>
     <td>Chai</td>
   </tr>
   <tr>
-    <td>SCSS</td>
+    <td>Angular Material</td>
     <td>REST & GraphQL APIs</td>
     <td>Mongoose</td>
     <td>LightHouseCI</td>
   </tr>
   <tr>
-    <td>Tailwind</td>
+    <td>React</td>
     <td>WebSockets</td>
     <td>Sequelize</td>
     <td>Artillery</td>
+  </tr>
+  <tr>
+    <td>Zustand</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>React Native</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Next.js</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>TSX/JSX</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Vue.js</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Pinia</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Custom SVG & canvas animations</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Three.js</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </table>
 
