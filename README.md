@@ -21,7 +21,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   </tr>
   <tr>
     <td>Angular <img style="height: 1rem" src="technology-icons/angular.svg" /></td>
-    <td>Node.js <img style="height: 1rem" src="technology-icons/node.svg" /></td>
+    <td>Passport.js <img style="height: 1rem" src="technology-icons/passportjs.svg" /></td>
     <td>PostgreSQL <img style="height: 1rem" src="technology-icons/postgresql.svg" /></td>
     <td>Cypress <img style="height: 1rem" src="technology-icons/cypress.svg" /></td>
   </tr>
@@ -74,8 +74,8 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>Clinic.js <img style="height: 1rem" src="technology-icons/clinicjs.svg" /></td>
   </tr>
   <tr>
-    <td>Next.js <img style="height: 1rem" src="technology-icons/nextjs.svg" /></td>
-    <td>Passport.js <img style="height: 1rem" src="technology-icons/passportjs.svg" /></td>
+    <td colspan="2" align="center">Next.js <img style="height: 1rem" src="technology-icons/nextjs.svg" /></td>
+    <!-- <td>Passport.js <img style="height: 1rem" src="technology-icons/passportjs.svg" /></td> -->
     <td>MariaDB <img style="height: 1rem" src="technology-icons/mariadb.svg" /></td>
     <td>-</td>
   </tr>
@@ -127,6 +127,12 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">Node.js <img style="height: 1rem" src="technology-icons/node.svg" /></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  
 </table>
 
 ## Niche
