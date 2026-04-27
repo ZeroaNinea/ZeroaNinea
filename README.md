@@ -144,9 +144,9 @@ My work typically involves:
 
 ## Current Focus
 
-- Extendisg my stack. The nearest plans are learning, Redux, React Testing Library, and .NET.
-- Finding freelance clients.
-- Searching for new colaborations.
+- Expanding into the React ecosystem (Redux, Testing Library);
+- Building reusable UI systems;
+- Finding freelance clients and collaborations.
 
 ### Selected projects
 
