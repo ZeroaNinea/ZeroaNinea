@@ -77,7 +77,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>Next.js <img style="height: 1rem" src="technology-icons/nextjs.svg" /></td>
     <td>Passport.js <img style="height: 1rem" src="technology-icons/passportjs.svg" /></td>
     <td>MariaDB <img style="height: 1rem" src="technology-icons/mariadb.svg" /></td>
-    <td>-</td>
+    <td>MongoDB in Memory <img style="height: 1rem" src="technology-icons/mongodb.svg" /></td>
   </tr>
   <tr>
     <td>TSX <img style="height: 1rem" src="technology-icons/tsx.svg" />/JSX <img style="height: 1rem" src="technology-icons/jsx.svg" /></td>
