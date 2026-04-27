@@ -56,7 +56,7 @@ Custom SVG & canvas animations • Three.js
     <td>NgRx</td>
     <td>NestJS</td>
     <td>Redis</td>
-    <td>Mocha</td>
+    <td>Jasmine</td>
   </tr>
   <tr>
     <td>SCSS</td>
@@ -68,31 +68,31 @@ Custom SVG & canvas animations • Three.js
     <td>Tailwind</td>
     <td>REST & GraphQL APIs</td>
     <td>TypeORM</td>
-    <td>Chai</td>
+    <td>Mocha</td>
   </tr>
   <tr>
     <td>Angular Material</td>
     <td>WebSockets</td>
     <td>Mongoose</td>
-    <td>LightHouseCI</td>
+    <td>Chai</td>
   </tr>
   <tr>
     <td>React</td>
     <td>Socket.io</td>
     <td>Sequelize</td>
-    <td>Artillery</td>
+    <td>LightHouseCI</td>
   </tr>
   <tr>
     <td>Zustand</td>
     <td>0Auth2</td>
     <td>-</td>
-    <td>-</td>
+    <td>Artillery</td>
   </tr>
   <tr>
     <td>React Native</td>
     <td>JWT</td>
     <td>-</td>
-    <td>-</td>
+    <td>Clinic.js</td>
   </tr>
   <tr>
     <td>Next.js</td>
