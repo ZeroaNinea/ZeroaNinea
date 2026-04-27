@@ -194,7 +194,7 @@ Reusable command palette with dynamic theming and keyboard navigation.
 
 ### Animated Modal Window (React)
 
-🔗 Source: [https://github.com/ZeroaNinea/Modal-Window-Vite-React-Tailwind](https://github.com/ZeroaNinea/Modal-Window-Vite-React-Tailwind)
+🔗 Live: [https://zeroaninea.github.io/Modal-Window-Vite-React-Tailwind/](https://zeroaninea.github.io/Modal-Window-Vite-React-Tailwind/) 🔗 Source: [https://github.com/ZeroaNinea/Modal-Window-Vite-React-Tailwind](https://github.com/ZeroaNinea/Modal-Window-Vite-React-Tailwind)
 
 Reusable animated modal component built with React, Vite, and Tailwind.
 
