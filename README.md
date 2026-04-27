@@ -85,7 +85,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>Artillery <img style="height: 1rem" src="technology-icons/artillery.svg" /></td>
   </tr>
   <tr>
-    <td>React Native</td>
+    <td>React Native <img style="height: 1rem" src="technology-icons/expo.svg" /></td>
     <td>JWT <img style="height: 1rem" src="technology-icons/jwt.svg" /></td>
     <td>SQLite</td>
     <td>Clinic.js <img style="height: 1rem" src="technology-icons/clinicjs.svg" /></td>
