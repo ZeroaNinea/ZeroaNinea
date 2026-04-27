@@ -157,12 +157,13 @@ Fully responsive Angular portfolio with custom interactions.
 - Drag-and-drop UI.
 - Multiple visual themes.
 
-### Animated Portfolio
+### Portfolio Site
 
 🔗 [https://github.com/ZeroaNinea/Site-Portfolio](https://github.com/ZeroaNinea/Site-Portfolio)
+<br />
 🔗 [https://heghine-app.netlify.app/](https://heghine-app.netlify.app/)
 
-A portfolio in Angular, Angular Material, SVG animations, TypeScript and Three.js.
+A portfolio site in Angular, Angular Material, SVG animations, TypeScript and Three.js.
 
 ![Angular](https://img.shields.io/badge/Angular-red)
 ![Angular Material](https://img.shields.io/badge/Angular_Material-blue)
