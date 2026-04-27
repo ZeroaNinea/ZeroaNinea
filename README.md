@@ -6,7 +6,7 @@ If you contact me, I'll probably send you a GIF of a cat.
 <br />
 \>:3
 
-![Portfolio](./portfolio.gif)
+![Portfolio](./output.gif)
 
 ## Tech Stack
 
