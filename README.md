@@ -40,59 +40,59 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>Angular <img style="height: 1rem" src="technology-icons/angular.svg" /></td>
     <td>Node.js <img style="height: 1rem" src="technology-icons/node.svg" /></td>
     <td>PostgreSQL</td>
-    <td>Cypress</td>
+    <td>Cypress <img style="height: 1rem" src="technology-icons/cypress.svg" /></td>
   </tr>
   <tr>
-    <td>RxJS</td>
-    <td>TypeScript</td>
+    <td>RxJS <img style="height: 1rem" src="technology-icons/rxjs.svg" /></td>
+    <td>TypeScript/JavaScript</td>
     <td>MongoDB</td>
-    <td>Jest</td>
+    <td>Jest <img style="height: 1rem" src="technology-icons/jest.svg" /></td>
   </tr>
   <tr>
-    <td>NgRx</td>
-    <td>NestJS</td>
+    <td>NgRx <img style="height: 1rem" src="technology-icons/ngrx.svg" /></td>
+    <td>NestJS <img style="height: 1rem" src="technology-icons/nestjs.svg" /></td>
     <td>Redis</td>
-    <td>Jasmine</td>
+    <td>Jasmine <img style="height: 1rem" src="technology-icons/jasmine.svg" /></td>
   </tr>
   <tr>
     <td>SCSS</td>
-    <td>Express.js</td>
-    <td>Prisma</td>
-    <td>Karma</td>
+    <td>Express.js <img style="height: 1rem" src="technology-icons/expressjs.svg" /></td>
+    <td>Prisma <img style="height: 1rem" src="technology-icons/prismaorm.svg" /></td>
+    <td>Karma <img style="height: 1rem" src="technology-icons/karma.svg" /></td>
   </tr>
   <tr>
     <td>Tailwind</td>
     <td>REST & GraphQL APIs</td>
-    <td>TypeORM</td>
-    <td>Mocha</td>
+    <td>TypeORM <img style="height: 1rem" src="technology-icons/typeorm.svg" /></td>
+    <td>Mocha <img style="height: 1rem" src="technology-icons/mocha.svg" /></td>
   </tr>
   <tr>
-    <td>Angular Material</td>
-    <td>WebSockets</td>
-    <td>Mongoose</td>
-    <td>Chai</td>
+    <td>Angular Material <img style="height: 1rem" src="technology-icons/angular-material.svg" /></td>
+    <td>WebSockets <img style="height: 1rem" src="technology-icons/websocket.svg" /></td>
+    <td>Mongoose <img style="height: 1rem" src="technology-icons/mongoose.svg" /></td>
+    <td>Chai <img style="height: 1rem" src="technology-icons/chai.svg" /></td>
   </tr>
   <tr>
-    <td>React</td>
-    <td>Socket.io</td>
-    <td>Sequelize</td>
-    <td>LightHouseCI</td>
+    <td>React <img style="height: 1rem" src="technology-icons/react.svg" /></td>
+    <td>Socket.io <img style="height: 1rem" src="technology-icons/socketio.svg" /></td>
+    <td>Sequelize <img style="height: 1rem" src="technology-icons/sequelize.svg" /></td>
+    <td>LightHouseCI <img style="height: 1rem" src="technology-icons/lighthouseci.svg" /></td>
   </tr>
   <tr>
-    <td>Zustand</td>
+    <td>Zustand <img style="height: 1rem" src="technology-icons/zustand.svg" /></td>
     <td>0Auth2</td>
     <td>MySQL</td>
-    <td>Artillery</td>
+    <td>Artillery <img style="height: 1rem" src="technology-icons/artillery.svg" /></td>
   </tr>
   <tr>
     <td>React Native</td>
-    <td>JWT</td>
+    <td>JWT <img style="height: 1rem" src="technology-icons/jwt.svg" /></td>
     <td>SQLite</td>
-    <td>Clinic.js</td>
+    <td>Clinic.js <img style="height: 1rem" src="technology-icons/clinicjs.html" /></td>
   </tr>
   <tr>
-    <td>Next.js</td>
-    <td>Passport.js</td>
+    <td>Next.js <img style="height: 1rem" src="technology-icons/nextjs.svg" /></td>
+    <td>Passport.js <img style="height: 1rem" src="technology-icons/passportjs.svg" /></td>
     <td>MariaDB</td>
     <td>-</td>
   </tr>
@@ -103,13 +103,13 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
   </tr>
   <tr>
-    <td>Vue.js</td>
+    <td>Vue.js <img style="height: 1rem" src="technology-icons/vuejs.svg" /></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>Pinia</td>
+    <td>Pinia <img style="height: 1rem" src="technology-icons/pinia.svg" /></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
@@ -121,7 +121,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
   </tr>
   <tr>
-    <td>Three.js</td>
+    <td>Three.js <img style="height: 1rem" src="technology-icons/threejs.svg" /></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
