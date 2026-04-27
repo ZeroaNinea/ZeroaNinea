@@ -150,13 +150,6 @@ My work typically involves:
 
 ## Selected projects
 
-**Animated Portfolio**
-Fully responsive Angular portfolio with custom interactions.
-
-- SVG-based background animations.
-- Drag-and-drop UI.
-- Multiple visual themes.
-
 ### Portfolio Site
 
 🔗 [https://github.com/ZeroaNinea/Site-Portfolio](https://github.com/ZeroaNinea/Site-Portfolio)
