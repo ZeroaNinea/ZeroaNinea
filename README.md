@@ -129,18 +129,6 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   </tr>
 </table>
 
-**Backend**
-Node.js • TypeScript • NestJS • Express
-REST & GraphQL APIs • WebSockets • Socket.io
-Authentication (JWT, Passport.js)
-
-**Data**
-PostgreSQL • MongoDB • Redis
-Prisma • TypeORM • Mongoose • Sequelize
-
-**Testing, Performance & Quality**
-Cypress • Jest • Jasmine • Karma • Mocha • Chai • LightHouseCI • Clinic.js • Artillery
-
 ### Selected projects
 
 **Animated Portfolio**
