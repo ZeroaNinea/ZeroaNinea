@@ -148,7 +148,7 @@ My work typically involves:
 - Building reusable UI systems;
 - Finding freelance clients and collaborations.
 
-### Selected projects
+## Selected projects
 
 **Animated Portfolio**
 Fully responsive Angular portfolio with custom interactions.
@@ -157,7 +157,8 @@ Fully responsive Angular portfolio with custom interactions.
 - Drag-and-drop UI.
 - Multiple visual themes.
 
-**Real-time Chat Application**
+### Real-time Chat Application
+
 👉 [https://github.com/ZeroaNinea/Real-Time-Chat-App](https://github.com/ZeroaNinea/Real-Time-Chat-App)
 
 Discord-like full-stack chat application with authentication and real-time messaging.
@@ -166,6 +167,17 @@ Discord-like full-stack chat application with authentication and real-time messa
 ![Socket.io](https://img.shields.io/badge/WebSockets-Socket.io-black)
 ![Redis](https://img.shields.io/badge/Redis-caching-red)
 ![JWT](https://img.shields.io/badge/Auth-JWT-blue)
+
+### Command Palette (Angular)
+
+👉 [https://zeroaninea.github.io/Command-Palette-Angular/](https://zeroaninea.github.io/Command-Palette-Angular/)
+👉 [https://github.com/ZeroaNinea/Command-Palette-Angular](https://github.com/ZeroaNinea/Command-Palette-Angular)
+
+Reusable command palette with dynamic theming and keyboard navigation.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031)
+![Dynamic_Theming](https://img.shields.io/badge/Theming-Dynamic-purple)
+![Keyboard](https://img.shields.io/badge/UX-Keyboard_Navigation-green)
 
 Structure matters to me — in code, design, and systems.
 
