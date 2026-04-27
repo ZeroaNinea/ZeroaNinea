@@ -20,13 +20,17 @@ My work typically involves:
 - headless CMS integrations and content-driven platforms,
 - cross-user interactions.
 
+![UI](https://img.shields.io/badge/Interactive_UI-blue)
+![Real-time](https://img.shields.io/badge/Real--time_Systems-green)
+![Dashboards](https://img.shields.io/badge/Admin_Dashboards-purple)
+![Animations](https://img.shields.io/badge/SVG_Animations-orange)
+![CMS](https://img.shields.io/badge/Headless_CMS-yellow)
+
 ## Current Focus
 
 - Extendisg my stack. The nearest plans are learning, Redux, React Testing Library, and .NET.
 - Finding freelance clients.
 - Searching for new colaborations.
-
-![Real-time](https://img.shields.io/badge/Real--time_Systems-green)
 
 ## Tech Stack
 
