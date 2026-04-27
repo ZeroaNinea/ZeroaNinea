@@ -140,7 +140,7 @@ My work typically involves:
 ![Dashboards](https://img.shields.io/badge/Admin_Dashboards-purple)
 ![Animations](https://img.shields.io/badge/SVG_And_UI_Animations-orange)
 ![CMS](https://img.shields.io/badge/Headless_CMS-yellow)
-![Mobile](https://img.shields.io/badge/Mobile_Apps-pink)
+![Mobile](https://img.shields.io/badge/Mobile_Apps-rose)
 
 ## Current Focus
 
