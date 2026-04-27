@@ -37,8 +37,8 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td><b>Testing, Performance & Quality</b></td>
   </tr>
   <tr>
-    <td>Angular <img style="width: 20px" src="technology-icons/angular.svg" /></td>
-    <td>Node.js <img style="width: 20px" src="technology-icons/nodejs.svg" /></td>
+    <td>Angular <img style="height: 1rem" src="technology-icons/angular.svg" /></td>
+    <td>Node.js <img style="height: 1rem" src="technology-icons/node.svg" /></td>
     <td>PostgreSQL</td>
     <td>Cypress</td>
   </tr>
