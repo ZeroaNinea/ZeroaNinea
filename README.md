@@ -11,7 +11,13 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 
 I build interactive web applications and internal systems using JavaScript and TypeScript.
 
-My work typically involves: ![UI](https://img.shields.io/badge/Interactive_UI-blue) ![Real-time](https://img.shields.io/badge/Real--time_Systems-green) ![Dashboards](https://img.shields.io/badge/Admin_Dashboards-purple) ![Animations](https://img.shields.io/badge/SVG_And_UI_Animations-orange) ![CMS](https://img.shields.io/badge/Headless_CMS-yellow)
+My work typically involves:
+
+![UI](https://img.shields.io/badge/Interactive_UI-blue)
+![Real-time](https://img.shields.io/badge/Real--time_Systems-green)
+![Dashboards](https://img.shields.io/badge/Admin_Dashboards-purple)
+![Animations](https://img.shields.io/badge/SVG_And_UI_Animations-orange)
+![CMS](https://img.shields.io/badge/Headless_CMS-yellow)
 
 ## Current Focus
 
