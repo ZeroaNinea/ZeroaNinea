@@ -116,7 +116,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
   </tr>
   <tr>
-    <td colspan="2">JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" />/TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" /></td>
+    <td colspan="2" align="center">JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" />/TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" /></td>
     <!-- <td>-</td> -->
     <td>-</td>
     <td>-</td>
