@@ -7,24 +7,6 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 
 ![Portfolio](./portfolio.gif)
 
-## Niche
-
-I build interactive web applications and internal systems using JavaScript and TypeScript.
-
-My work typically involves:
-
-![UI](https://img.shields.io/badge/Interactive_UI-blue)
-![Real-time](https://img.shields.io/badge/Real--time_Systems-green)
-![Dashboards](https://img.shields.io/badge/Admin_Dashboards-purple)
-![Animations](https://img.shields.io/badge/SVG_And_UI_Animations-orange)
-![CMS](https://img.shields.io/badge/Headless_CMS-yellow)
-
-## Current Focus
-
-- Extendisg my stack. The nearest plans are learning, Redux, React Testing Library, and .NET.
-- Finding freelance clients.
-- Searching for new colaborations.
-
 ## Tech Stack
 
 I'm mainly focused in JavaScript development. My tech stack includes these frameworks, Libraries and running environment: Angular, React, React Native, Next.js, Vue.js, Nest.js and Node.js. I'm confident in both frontend and backend, and in all corresponding technologies — Authentication, APIs and testing.
@@ -139,6 +121,24 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
   </tr>
 </table>
+
+## Niche
+
+I build interactive web applications and internal systems using JavaScript and TypeScript.
+
+My work typically involves:
+
+![UI](https://img.shields.io/badge/Interactive_UI-blue)
+![Real-time](https://img.shields.io/badge/Real--time_Systems-green)
+![Dashboards](https://img.shields.io/badge/Admin_Dashboards-purple)
+![Animations](https://img.shields.io/badge/SVG_And_UI_Animations-orange)
+![CMS](https://img.shields.io/badge/Headless_CMS-yellow)
+
+## Current Focus
+
+- Extendisg my stack. The nearest plans are learning, Redux, React Testing Library, and .NET.
+- Finding freelance clients.
+- Searching for new colaborations.
 
 ### Selected projects
 
