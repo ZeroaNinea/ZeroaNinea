@@ -1,4 +1,4 @@
-## Hi, I'm Heghine 👋
+# Hi, I'm Heghine 👋
 
 Full-stack developer focused on **interactive UIs, real-time systems, and clean architecture**.
 I build interfaces that feel alive — and systems that stay understandable as they grow.
@@ -7,7 +7,7 @@ JavaScript, TypeScript, Angular, Node.js, and more.
 
 ![Portfolio](./portfolio.gif)
 
-### Niche
+## Niche
 
 I build interactive web applications and internal systems using JavaScript and TypeScript.
 
@@ -20,18 +20,15 @@ My work typically involves:
 - headless CMS integrations and content-driven platforms,
 - cross-user interactions.
 
-### Current Focus
+## Current Focus
 
 - Extendisg my stack. The nearest plans are learning, Redux, React Testing Library, and .NET.
 - Finding freelance clients.
 - Searching for new colaborations.
 
-### Tech Stack
+## Tech Stack
 
-**Frontend**
-Angular • RxJS • SCSS / Tailwind • Angular Material
-React • Zustand • React Native • Next.js • JSX / TSX • Vue.js • Pinia
-Custom SVG & canvas animations • Three.js
+I'm mainly focused in JavaScript development. My tech stack includes these frameworks, Libraries and running environment: Angular, React, React Native, Next.js, Vue.js, Nest.js and Node.js. I'm confident in both frontend and backend, and in all corresponding technologies — Authentication, APIs and testing.
 
 <table>
   <tr>
