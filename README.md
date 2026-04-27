@@ -44,7 +44,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   </tr>
   <tr>
     <td>RxJS <img style="height: 1rem" src="technology-icons/rxjs.svg" /></td>
-    <td>TypeScript/JavaScript</td>
+    <td>TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" />/JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" /></td>
     <td>MongoDB</td>
     <td>Jest <img style="height: 1rem" src="technology-icons/jest.svg" /></td>
   </tr>
@@ -122,6 +122,12 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   </tr>
   <tr>
     <td>Three.js <img style="height: 1rem" src="technology-icons/threejs.svg" /></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>HTML <img style="height: 1rem" src="technology-icons/httml.svg" />/CSS <img style="height: 1rem" src="technology-icons/css.svg" />/JavaScript <img style="height: 1rem" src="technology-icons/javascript.svg" />/TypeScript <img style="height: 1rem" src="technology-icons/typescript.svg" /></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
