@@ -167,8 +167,8 @@ Interactive portfolio built with Angular, focused on custom UI, motion, and visu
 
 ### Real-time Chat Application
 
-🔗 [https://github.com/ZeroaNinea/Real-Time-Chat-App](https://github.com/ZeroaNinea/Real-Time-Chat-App)
-🔗 [https://real-time-chat-app-great-bulbdog.vercel.app/](https://real-time-chat-app-great-bulbdog.vercel.app/)
+🔗 Live: [https://github.com/ZeroaNinea/Real-Time-Chat-App](https://github.com/ZeroaNinea/Real-Time-Chat-App)
+🔗 Source: [https://real-time-chat-app-great-bulbdog.vercel.app/](https://real-time-chat-app-great-bulbdog.vercel.app/)
 
 Discord-like full-stack chat application with authentication and real-time messaging.
 
@@ -181,8 +181,8 @@ Discord-like full-stack chat application with authentication and real-time messa
 
 ### Command Palette (Angular)
 
-🔗 [https://zeroaninea.github.io/Command-Palette-Angular/](https://zeroaninea.github.io/Command-Palette-Angular/)
-🔗 [https://github.com/ZeroaNinea/Command-Palette-Angular](https://github.com/ZeroaNinea/Command-Palette-Angular)
+🔗 Live: [https://zeroaninea.github.io/Command-Palette-Angular/](https://zeroaninea.github.io/Command-Palette-Angular/)
+🔗 Source: [https://github.com/ZeroaNinea/Command-Palette-Angular](https://github.com/ZeroaNinea/Command-Palette-Angular)
 
 Reusable command palette with dynamic theming and keyboard navigation.
 
