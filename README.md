@@ -26,6 +26,8 @@ My work typically involves:
 - Finding freelance clients.
 - Searching for new colaborations.
 
+![Real-time](https://img.shields.io/badge/Real--time_Systems-green)
+
 ## Tech Stack
 
 I'm mainly focused in JavaScript development. My tech stack includes these frameworks, Libraries and running environment: Angular, React, React Native, Next.js, Vue.js, Nest.js and Node.js. I'm confident in both frontend and backend, and in all corresponding technologies — Authentication, APIs and testing.
