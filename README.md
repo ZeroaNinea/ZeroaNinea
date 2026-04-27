@@ -85,19 +85,19 @@ Custom SVG & canvas animations • Three.js
   <tr>
     <td>Zustand</td>
     <td>0Auth2</td>
-    <td>-</td>
+    <td>MySQL</td>
     <td>Artillery</td>
   </tr>
   <tr>
     <td>React Native</td>
     <td>JWT</td>
-    <td>-</td>
+    <td>SQLite</td>
     <td>Clinic.js</td>
   </tr>
   <tr>
     <td>Next.js</td>
     <td>Passport.js</td>
-    <td>-</td>
+    <td>MariaDB</td>
     <td>-</td>
   </tr>
   <tr>
