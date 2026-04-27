@@ -152,17 +152,16 @@ My work typically involves:
 
 ### Portfolio Site
 
-🔗 [https://github.com/ZeroaNinea/Site-Portfolio](https://github.com/ZeroaNinea/Site-Portfolio)
-<br />
-🔗 [https://heghine-app.netlify.app/](https://heghine-app.netlify.app/)
+🔗 Live: [https://heghine-app.netlify.app/](https://heghine-app.netlify.app/)
+🔗 Source: [https://github.com/ZeroaNinea/Site-Portfolio](https://github.com/ZeroaNinea/Site-Portfolio)
 
-A portfolio site in Angular, Angular Material, SVG animations, TypeScript and Three.js.
+Interactive portfolio built with Angular, focused on custom UI, motion, and visual systems.
 
 ![Angular](https://img.shields.io/badge/Angular-red)
-![Angular Material](https://img.shields.io/badge/Angular_Material-blue)
-![SVG](https://img.shields.io/badge/SVG_Animations-orange)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Three.js](https://img.shields.io/badge/Three.js-green)
+![Angular Material](https://img.shields.io/badge/UI-Angular_Material-blue)
+![SVG](https://img.shields.io/badge/Animations-SVG-orange)
+![Three.js](https://img.shields.io/badge/3D-Three.js-green)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)
 
 <hr />
 
@@ -192,6 +191,19 @@ Reusable command palette with dynamic theming and keyboard navigation.
 ![Angular](https://img.shields.io/badge/Angular-DD0031)
 ![Dynamic_Theming](https://img.shields.io/badge/Theming-Dynamic-purple)
 ![Keyboard](https://img.shields.io/badge/UX-Keyboard_Navigation-green)
+
+<br />
+
+### Animated Modal Window (React)
+
+🔗 Source: [https://github.com/ZeroaNinea/Modal-Window-Vite-React-Tailwind](https://github.com/ZeroaNinea/Modal-Window-Vite-React-Tailwind)
+
+Reusable animated modal component built with React, Vite, and Tailwind.
+
+![React](https://img.shields.io/badge/React-blue)
+![Vite](https://img.shields.io/badge/Vite-purple)
+![Tailwind](https://img.shields.io/badge/Tailwind-teal)
+![UI](https://img.shields.io/badge/Component-Reusable-yellow)
 
 ## 📫 Links
 
