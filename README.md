@@ -60,43 +60,43 @@ Custom SVG & canvas animations • Three.js
   </tr>
   <tr>
     <td>SCSS</td>
-    <td>Express</td>
+    <td>Express.js</td>
     <td>Prisma</td>
     <td>Karma</td>
   </tr>
   <tr>
     <td>Tailwind</td>
-    <td>GraphQL APIs</td>
+    <td>REST & GraphQL APIs</td>
     <td>TypeORM</td>
     <td>Chai</td>
   </tr>
   <tr>
     <td>Angular Material</td>
-    <td>REST & GraphQL APIs</td>
+    <td>WebSockets</td>
     <td>Mongoose</td>
     <td>LightHouseCI</td>
   </tr>
   <tr>
     <td>React</td>
-    <td>WebSockets</td>
+    <td>Socket.io</td>
     <td>Sequelize</td>
     <td>Artillery</td>
   </tr>
   <tr>
     <td>Zustand</td>
-    <td>-</td>
+    <td>0Auth2</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
     <td>React Native</td>
-    <td>-</td>
+    <td>JWT</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
     <td>Next.js</td>
-    <td>-</td>
+    <td>Passport.js</td>
     <td>-</td>
     <td>-</td>
   </tr>
