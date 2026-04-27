@@ -158,7 +158,7 @@ Fully responsive Angular portfolio with custom interactions.
 - Multiple visual themes.
 
 **Real-time Chat Application**
-👉 [https://github.com/ZeroaNinea/Real-Time-Chat-App]
+👉 [https://github.com/ZeroaNinea/Real-Time-Chat-App](https://github.com/ZeroaNinea/Real-Time-Chat-App)
 
 Discord-like full-stack chat application with authentication and real-time messaging.
 
