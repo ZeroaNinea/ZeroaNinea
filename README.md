@@ -51,7 +51,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
   <tr>
     <td>NgRx <img style="height: 1rem" src="technology-icons/ngrx.svg" /></td>
     <td>NestJS <img style="height: 1rem" src="technology-icons/nestjs.svg" /></td>
-    <td>Redis</td>
+    <td>Redis <img style="height: 1rem" src="technology-icons/redis.svg" /></td>
     <td>Jasmine <img style="height: 1rem" src="technology-icons/jasmine.svg" /></td>
   </tr>
   <tr>
