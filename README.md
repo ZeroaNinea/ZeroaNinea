@@ -159,6 +159,7 @@ Fully responsive Angular portfolio with custom interactions.
 
 ### Animated Portfolio
 
+🔗 [https://github.com/ZeroaNinea/Site-Portfolio](https://github.com/ZeroaNinea/Site-Portfolio)
 🔗 [https://heghine-app.netlify.app/](https://heghine-app.netlify.app/)
 
 A portfolio in Angular, Angular Material, SVG animations, TypeScript and Three.js.
@@ -168,6 +169,8 @@ A portfolio in Angular, Angular Material, SVG animations, TypeScript and Three.j
 ![SVG](https://img.shields.io/badge/SVG_Animations-orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![Three.js](https://img.shields.io/badge/Three.js-green)
+
+<hr />
 
 ### Real-time Chat Application
 
