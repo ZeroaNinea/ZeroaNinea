@@ -40,6 +40,48 @@ Custom SVG & canvas animations • Three.js
     <td><b>Data</b></td>
     <td><b>Testing, Performance & Quality</b></td>
   </tr>
+  <tr>
+    <td>Angular</td>
+    <td>Node.js</td>
+    <td>PostgreSQL</td>
+    <td>Cypress</td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>TypeScript</td>
+    <td>MongoDB</td>
+    <td>Jest</td>
+  </tr>
+  <tr>
+    <td>React Native</td>
+    <td>NestJS</td>
+    <td>Redis</td>
+    <td>Mocha</td>
+  </tr>
+  <tr>
+    <td>Next.js</td>
+    <td>Express</td>
+    <td>Prisma</td>
+    <td>Karma</td>
+  </tr>
+  <tr>
+    <td>Vue.js</td>
+    <td>GraphQL APIs</td>
+    <td>TypeORM</td>
+    <td>Chai</td>
+  </tr>
+  <tr>
+    <td>SCSS</td>
+    <td>REST & GraphQL APIs</td>
+    <td>Mongoose</td>
+    <td>LightHouseCI</td>
+  </tr>
+  <tr>
+    <td>Tailwind</td>
+    <td>WebSockets</td>
+    <td>Sequelize</td>
+    <td>Artillery</td>
+  </tr>
 </table>
 
 **Backend**
