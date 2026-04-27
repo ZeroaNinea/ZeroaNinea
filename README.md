@@ -33,6 +33,8 @@ Angular • RxJS • SCSS / Tailwind • Angular Material
 React • Zustand • React Native • Next.js • JSX / TSX • Vue.js • Pinia
 Custom SVG & canvas animations • Three.js
 
+<div style="width: 200px; height: 200px; background-color: red">Angular</div>
+
 **Backend**
 Node.js • TypeScript • NestJS • Express
 REST & GraphQL APIs • WebSockets • Socket.io
