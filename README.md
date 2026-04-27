@@ -76,7 +76,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>React <img style="height: 1rem" src="technology-icons/react.svg" /></td>
     <td>Socket.io <img style="height: 1rem" src="technology-icons/socketio.svg" /></td>
     <td>Sequelize <img style="height: 1rem" src="technology-icons/sequelize.svg" /></td>
-    <td>LightHouseCI <img style="height: 1rem" src="technology-icons/lighthouseci.svg" /></td>
+    <td>LightHouseCI <img style="height: 1rem" src="technology-icons/lighthouseci.png" /></td>
   </tr>
   <tr>
     <td>Zustand <img style="height: 1rem" src="technology-icons/zustand.svg" /></td>
@@ -88,7 +88,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>React Native</td>
     <td>JWT <img style="height: 1rem" src="technology-icons/jwt.svg" /></td>
     <td>SQLite</td>
-    <td>Clinic.js <img style="height: 1rem" src="technology-icons/clinicjs.html" /></td>
+    <td>Clinic.js <img style="height: 1rem" src="technology-icons/clinicjs.svg" /></td>
   </tr>
   <tr>
     <td>Next.js <img style="height: 1rem" src="technology-icons/nextjs.svg" /></td>
