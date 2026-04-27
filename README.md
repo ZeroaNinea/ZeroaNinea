@@ -8,7 +8,9 @@ If you contact me, I'll probably send you a GIF of a cat.
 
 <!-- ![Portfolio](./portfolio.gif) -->
 
-<video src="./portfolio.mp4" width="800" autoplay loop muted></video>
+<!-- <video src="./portfolio.mp4" width="800" autoplay loop muted></video> -->
+
+![Portfolio](./portfolio.mp4)
 
 ## Tech Stack
 
