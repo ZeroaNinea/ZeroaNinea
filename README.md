@@ -10,7 +10,7 @@ If you contact me, I'll probably send you a GIF of a cat.
 
 ## Tech Stack
 
-I'm mainly focused in JavaScript development. My tech stack includes these frameworks, Libraries and running environment: Angular, React, React Native, Next.js, Vue.js, Nest.js and Node.js. I'm confident in both frontend and backend, and in all corresponding technologies — Authentication, APIs and testing.
+I'm mainly focused in JavaScript development. My tech stack includes these frameworks, Libraries and a running environment: Angular, React, React Native, Next.js, Vue.js, Nest.js and Node.js. I'm confident in both frontend and backend, and in all corresponding technologies — Authentication, APIs and testing.
 
 <table>
   <tr>
