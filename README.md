@@ -159,7 +159,9 @@ Fully responsive Angular portfolio with custom interactions.
 
 ### Real-time Chat Application
 
-👉 [https://github.com/ZeroaNinea/Real-Time-Chat-App](https://github.com/ZeroaNinea/Real-Time-Chat-App)
+🔗 [https://github.com/ZeroaNinea/Real-Time-Chat-App](https://github.com/ZeroaNinea/Real-Time-Chat-App)
+<br >
+🔗 [https://real-time-chat-app-great-bulbdog.vercel.app/](https://real-time-chat-app-great-bulbdog.vercel.app/)
 
 Discord-like full-stack chat application with authentication and real-time messaging.
 
@@ -172,9 +174,9 @@ Discord-like full-stack chat application with authentication and real-time messa
 
 ### Command Palette (Angular)
 
-👉 [https://zeroaninea.github.io/Command-Palette-Angular/](https://zeroaninea.github.io/Command-Palette-Angular/)
+🔗 [https://zeroaninea.github.io/Command-Palette-Angular/](https://zeroaninea.github.io/Command-Palette-Angular/)
 <br />
-👉 [https://github.com/ZeroaNinea/Command-Palette-Angular](https://github.com/ZeroaNinea/Command-Palette-Angular)
+🔗 [https://github.com/ZeroaNinea/Command-Palette-Angular](https://github.com/ZeroaNinea/Command-Palette-Angular)
 
 Reusable command palette with dynamic theming and keyboard navigation.
 
@@ -182,11 +184,7 @@ Reusable command palette with dynamic theming and keyboard navigation.
 ![Dynamic_Theming](https://img.shields.io/badge/Theming-Dynamic-purple)
 ![Keyboard](https://img.shields.io/badge/UX-Keyboard_Navigation-green)
 
-Structure matters to me — in code, design, and systems.
-
-And yes, I like cats 🐈
-
-📫 **Links**
+## 📫 Links
 
 - LinkedIn: https://www.linkedin.com/in/heghine-avetisyan-650291384/
 - Portfolio: https://heghine-app.netlify.app/
