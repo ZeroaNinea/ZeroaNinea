@@ -6,11 +6,7 @@ If you contact me, I'll probably send you a GIF of a cat.
 <br />
 \>:3
 
-<!-- ![Portfolio](./output.gif) -->
-
-<div style="text-align: center">
-  <img src="./output.gif" alt="Portfolio" width="100%" />
-</div>
+![Portfolio](./output.gif)
 
 ## Tech Stack
 
