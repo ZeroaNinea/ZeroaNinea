@@ -97,7 +97,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
   </tr>
   <tr>
-    <td>TSX/JSX</td>
+    <td>TSX <img style="height: 1rem" src="technology-icons/tsx.svg" />/JSX <img style="height: 1rem" src="technology-icons/jsx.svg" /></td>
     <td>Sanity.io</td>
     <td>-</td>
     <td>-</td>
