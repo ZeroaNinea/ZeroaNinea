@@ -168,9 +168,12 @@ Discord-like full-stack chat application with authentication and real-time messa
 ![Redis](https://img.shields.io/badge/Redis-caching-red)
 ![JWT](https://img.shields.io/badge/Auth-JWT-blue)
 
+<hr />
+
 ### Command Palette (Angular)
 
 👉 [https://zeroaninea.github.io/Command-Palette-Angular/](https://zeroaninea.github.io/Command-Palette-Angular/)
+<br />
 👉 [https://github.com/ZeroaNinea/Command-Palette-Angular](https://github.com/ZeroaNinea/Command-Palette-Angular)
 
 Reusable command palette with dynamic theming and keyboard navigation.
