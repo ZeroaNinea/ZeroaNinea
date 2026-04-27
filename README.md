@@ -6,11 +6,7 @@ If you contact me, I'll probably send you a GIF of a cat.
 <br />
 \>:3
 
-<!-- ![Portfolio](./portfolio.gif) -->
-
-<!-- <video src="./portfolio.mp4" width="800" autoplay loop muted></video> -->
-
-![Portfolio](./output.gif)
+![Portfolio](./portfolio.gif)
 
 ## Tech Stack
 
