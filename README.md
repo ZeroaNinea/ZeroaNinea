@@ -61,7 +61,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>Karma <img style="height: 1rem" src="technology-icons/karma.svg" /></td>
   </tr>
   <tr>
-    <td>Tailwind</td>
+    <td>Tailwind <img style="height: 1rem" src="technology-icons/tailwind.svg" /></td>
     <td>REST & GraphQL APIs</td>
     <td>TypeORM <img style="height: 1rem" src="technology-icons/typeorm.svg" /></td>
     <td>Mocha <img style="height: 1rem" src="technology-icons/mocha.svg" /></td>
