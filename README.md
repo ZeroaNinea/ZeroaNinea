@@ -151,7 +151,8 @@ My work typically involves:
 
 - Expanding into the React ecosystem (Redux, Testing Library);
 - Building reusable UI systems;
-- Finding freelance clients and collaborations.
+- Finding freelance clients and collaborations;
+- Working on the Day Manager pet project: [https://github.com/ZeroaNinea/Day-Planning](https://github.com/ZeroaNinea/Day-Planning)
 
 ## Selected Projects
 
