@@ -151,7 +151,7 @@ My work typically involves:
 
 - Expanding into the React ecosystem (Redux, Testing Library);
 - Building reusable UI systems;
-- Finding freelance clients and collaborations;
+- Finding freelance clients and collaborations.
 
 ## Selected Projects
 
