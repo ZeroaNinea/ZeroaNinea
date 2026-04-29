@@ -215,3 +215,47 @@ Reusable animated modal component built with React, Vite, and Tailwind.
 - Dev-Notes (A repository that contains my notes and tutorials.): https://github.com/ZeroaNinea/Dev-Notes
 - Medium: https://medium.com/@heghine.dev357
 - Dev.to: https://dev.to/zeroaninea_8bec34a4e7d029
+
+<!--
+I've installed OBS Studio to make a video screenshot.
+
+```bash
+sudo apt install obs-studio
+```
+
+I get a screenshot in `.mkv` format.
+
+I've generated a palette for the GIF with FFmpeg.
+
+```bash
+ffmpeg -i input.mkv -vf "fps=20,scale=900:-1:flags=lanczos,palettegen" palette.png
+```
+
+Then I convert the video to a GIF.
+
+```bash
+ffmpeg -i input.mkv -i palette.png -lavfi "fps=20,scale=900:-1:flags=lanczos[x];[x][1:v]paletteuse" output.gif
+```
+
+I got strange colorful pixels in the GIF in shadows of 3D objects. Then I tried to convert it into PNG.
+
+```bash
+ffmpeg -i input.mkv -c:v libx264 -crf 20 -preset slow -pix_fmt yuv420p output.mp4
+```
+
+It still didn't work, and I've converted the video into a GIF with fewer artifacts.
+
+```bash
+ffmpeg -i input.mkv -vf "fps=20,scale=900:-1:flags=lanczos,palettegen=max_colors=256" palette.png
+ffmpeg -i input.mkv -i palette.png -lavfi "fps=20,scale=900:-1:flags=lanczos[x];[x][1:v]paletteuse=dither=bayer:bayer_scale=3" output.gif
+```
+
+This time it worked but the output GIF still had a bad resolution. That's why I tried to reduce the scale and the length of the video.
+
+And it worked with scale `600` and 14 seconds of video.
+
+```bash
+ffmpeg -i input.mkv -vf "fps=20,scale=600:-1:flags=lanczos,palettegen=max_colors=256" palette.png
+ffmpeg -i input.mkv -i palette.png -lavfi "fps=20,scale=600:-1:flags=lanczos[x];[x][1:v]paletteuse=dither=bayer:bayer_scale=3" output.gif
+```
+-->
