@@ -151,7 +151,8 @@ My work typically involves:
 
 - Expanding into the React ecosystem (Redux, Testing Library);
 - Building reusable UI systems;
-- Finding freelance clients and collaborations.
+- Finding freelance clients and collaborations;
+- Creating a real estate agency website as a pet project in Vue.js: [https://github.com/ZeroaNinea/Real-Estate-Agency](https://github.com/ZeroaNinea/Real-Estate-Agency).
 
 ## Selected Projects
 
