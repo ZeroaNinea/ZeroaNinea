@@ -209,6 +209,16 @@ Reusable animated modal component built with React, Vite, and Tailwind.
 ![Tailwind](https://img.shields.io/badge/Tailwind-teal)
 ![UI](https://img.shields.io/badge/Component-Reusable-yellow)
 
+### Real Estate Agency (Vue.js + Bootstrap)
+
+🔗 Live: [https://real-estate-agency.zeroaninea.workers.dev/](https://real-estate-agency.zeroaninea.workers.dev/)
+🔗 Source: [https://github.com/ZeroaNinea/Real-Estate-Agency](https://github.com/ZeroaNinea/Real-Estate-Agency)
+
+Real estate agency website built with Vue.js and Bootstrap. I'm planning to add an admin panel in the future.
+
+![Vue.js](https://img.shields.io/badge/Vue.js-green)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
+
 ## 📫 Links
 
 - LinkedIn: https://www.linkedin.com/in/heghine-avetisyan-650291384/
