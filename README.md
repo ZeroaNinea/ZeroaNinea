@@ -132,6 +132,12 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td>-</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>Redux <img style="height: 1rem" src="technology-icons/redux.svg" /></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
 </table>
 
 ## Niche
