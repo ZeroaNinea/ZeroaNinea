@@ -77,7 +77,7 @@ I'm mainly focused in JavaScript development. My tech stack includes these frame
     <td colspan="2" align="center">Next.js <img style="height: 1rem" src="technology-icons/nextjs.svg" /></td>
     <!-- <td>Passport.js <img style="height: 1rem" src="technology-icons/passportjs.svg" /></td> -->
     <td>MariaDB <img style="height: 1rem" src="technology-icons/mariadb.svg" /></td>
-    <td>-</td>
+    <td>React Testing Library <img style="height: 1rem" src="technology-icons/react-testing-library.svg" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">Node.js <img style="height: 1rem" src="technology-icons/node.svg" /></td>
