@@ -225,6 +225,21 @@ Real estate agency website built with Vue.js and Bootstrap. I'm planning to add 
 ![Vue.js](https://img.shields.io/badge/Vue.js-green)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
 
+<hr />
+
+### Casebrary
+
+🔗 Source: https://github.com/ZeroaNinea/casebrary
+
+Browser extension for organizing hierarchical notes with customizable properties, local IndexedDB storage, multilingual support, import/export, and customizable color themes.
+
+![React](https://img.shields.io/badge/React-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
+![WXT](https://img.shields.io/badge/WXT-Browser_Extension-orange)
+![Redux](https://img.shields.io/badge/Redux-764ABC)
+![IndexedDB](https://img.shields.io/badge/Database-IndexedDB-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4)
+
 ## 📫 Links
 
 - LinkedIn: https://www.linkedin.com/in/heghine-avetisyan-650291384/
