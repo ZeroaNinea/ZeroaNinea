@@ -177,10 +177,10 @@ Interactive portfolio built with Angular, focused on custom UI, motion, and visu
 
 <hr />
 
-### Real-time Chat Application
+### Bulbchat
 
-🔗 Live: [https://real-time-chat-app-great-bulbdog.vercel.app/](https://real-time-chat-app-great-bulbdog.vercel.app/)
-🔗 Source: [https://github.com/ZeroaNinea/Real-Time-Chat-App](https://github.com/ZeroaNinea/Real-Time-Chat-App)
+🔗 Live: [https://real-time-chat-app-great-bulbdog.vercel.app/](https://bulbchat.vercel.app/)
+🔗 Source: [https://github.com/ZeroaNinea/bulbchat](https://github.com/ZeroaNinea/bulbchat)
 
 Discord-like full-stack chat application with authentication and real-time messaging.
 
