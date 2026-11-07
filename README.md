@@ -155,10 +155,8 @@ My work typically involves:
 
 ## Current Focus
 
-- Expanding into the React ecosystem (Redux, Testing Library);
-- Building reusable UI systems;
-- Finding freelance clients and collaborations;
-- Creating a real estate agency website as a pet project in Vue.js: [https://github.com/ZeroaNinea/Real-Estate-Agency](https://github.com/ZeroaNinea/Real-Estate-Agency).
+- Making the Heghinekilr Bot: https://github.com/ZeroaNinea/heghinekilr-bot
+- Depressed... \*  _  \*
 
 ## Selected Projects
 
