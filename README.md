@@ -156,6 +156,7 @@ My work typically involves:
 ## Current Focus
 
 - Making the Heghinekilr Bot: https://github.com/ZeroaNinea/heghinekilr-bot
+- Planning to become a VTuber.
 - Depressed... \*  _  \*
 
 ## Selected Projects
